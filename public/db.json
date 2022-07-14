@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "username": "mati123@gmail.com",
+    "password": "haslo123",
+    "name": "Mateusz",
+    "age": 22,
+    "gender": "Male",
+    "location": "Gliwice",
+    "bio": "Hello, I'm Mat and I like to play a variety of games starting from MMORPGs through racing games to online shooters. Lately I've been enjoying some New World but I kinda burned out on it due to the bugs and switched to Forza Horizon 5 and I've been loving it. Down to race?",
+    "games": "New World | Forza Horizon 5 | CS:GO | LoL",
+    "languages": "Polish | English",
+    "photos": [
+      "https://picsum.photos/id/103",
+      "https://picsum.photos/id/1012",
+      "https://picsum.photos/id/177"
+    ]
+  },
+  {
+    "id": 2,
+    "username": "kat123@gmail.com",
+    "password": "katarina123",
+    "name": "Katherine",
+    "age": 18,
+    "location": "Chorzów",
+    "gender": "Female",
+    "bio": "Ut in rhoncus augue. Proin a enim odio. Aliquam at justo felis. Vestibulum ut maximus enim, ut posuere augue. Praesent at purus molestie, dictum nibh vitae, eleifend ipsum. In a porttitor diam. Nulla in posuere dui. Fusce pulvinar tellus tellus, sit amet pulvinar arcu vulputate quis.",
+    "games": "The Sims 4 | Candy Crush | Overwatch",
+    "languages": "English",
+    "photos": [
+      "https://picsum.photos/id/1011",
+      "https://picsum.photos/id/1027",
+      "https://picsum.photos/id/1014"
+    ]
+  },
+  {
+    "id": 3,
+    "username": "jurczok123@gmail.com",
+    "password": "jurix123",
+    "name": "Jurek",
+    "age": 19,
+    "gender": "Male",
+    "location": "Katowice",
+    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultrices suscipit arcu id aliquam. Donec facilisis, ligula sed malesuada pellentesque, odio magna interdum metus, eu dictum arcu dui a orci.",
+    "games": "Terraria | Minecraft",
+    "languages": "English",
+    "photos": [
+      "https://picsum.photos/id/203",
+      "https://picsum.photos/id/22",
+      "https://picsum.photos/id/274"
+    ]
+  },
+  {
+    "id": 4,
+    "username": "bananek11@gmail.com",
+    "password": "kochacpolicje123",
+    "name": "Mike",
+    "age": 22,
+    "gender": "Male",
+    "location": "Trójkąt",
+    "bio": "Nullam laoreet imperdiet molestie. Etiam tortor arcu, faucibus at quam nec, iaculis convallis eros. Integer dapibus iaculis eros sed tincidunt. Sed vel diam lacus. Sed dui enim, euismod id ornare varius, consequat vitae arcu. Maecenas scelerisque purus vel sapien pretium fringilla.",
+    "games": "Rust | DayZ | Barotrauma | LoL",
+    "languages": "Polish | German",
+    "photos": [
+      "https://picsum.photos/id/1035",
+      "https://picsum.photos/id/1005",
+      "https://picsum.photos/id/117"
+    ]
+  },
+  {
+    "id": 5,
+    "username": "kamil261199@interia.eu",
+    "password": "kamil123",
+    "name": "Kamil",
+    "age": 22,
+    "gender": "Male",
+    "location": "Nieborowice",
+    "bio": "Hi, my name is Kamil",
+    "games": "Rust | DayZ | Barotrauma | LoL",
+    "languages": "Polish | English",
+    "photos": [
+      "https://picsum.photos/id/1035",
+      "https://picsum.photos/id/1005",
+      "https://picsum.photos/id/117"
+    ]
+  }
+]

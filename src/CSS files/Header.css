@@ -1,0 +1,59 @@
+.header
+{
+    padding-top: 1.5rem;
+    background-color: #313235;
+}
+.container
+{
+    font-size: 1rem;
+}
+.header__logo
+{
+    width: 12rem;
+}
+.header__logo img
+{
+    display: block; 
+    max-width: 100%;
+    pointer-events: none;
+}
+.nav-item
+{
+    display: flex;
+    align-items: center;
+    position: relative;
+    transition: background-color 0.4s;
+}
+.nav-item__icon
+{
+    margin-right: 0.5rem;
+}
+.nav-item__icon img
+{
+    display: block; 
+    max-width: 100%;
+    pointer-events: none;
+}
+@media screen and (min-width: 992px) {
+    .nav-item::after
+    {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 0.25rem;
+        background-color: transparent;
+        pointer-events: none;
+        transition: background-color 0.4s;
+    }
+    .nav-item.active::after
+    {
+        background-color: #f26665;
+    }
+    .nav-item:hover
+    {
+        background-color: hsl(0, 0%, 35%);
+    }
+}

@@ -1,0 +1,49 @@
+.discover-container /* in Discover.js */
+{
+    padding-top: 1rem;
+}
+.buttons /* in DiscoverPerson.js */
+{
+
+    padding: 1em 2em 1em;
+}
+.person-name
+{  
+    width: 150px;
+}
+.photos-container /* in DiscoverPersonDetails.js */
+{
+    padding: 0 1.25rem 1rem;
+    display: flex;
+    justify-content: center;
+}
+.photos-container img/* in DiscoverPersonDetails.js */
+{
+    padding: 0.5rem;
+}
+.cards-title
+{
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.5rem 0.5rem 0 0;
+    background-color: black;
+    color: white;
+}
+.cards-content
+{
+    padding: 0.75rem;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.details-icon
+{
+    padding-right: 1rem;
+}
+.details-text
+{
+    font-size: 0.85rem;
+}
+.LikePassIcons
+{
+    margin-right: 0.8rem;
+}
